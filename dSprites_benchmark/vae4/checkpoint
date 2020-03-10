@@ -1,0 +1,2 @@
+model_checkpoint_path: "vae4_e100_550000"
+all_model_checkpoint_paths: "vae4_e100_550000"
