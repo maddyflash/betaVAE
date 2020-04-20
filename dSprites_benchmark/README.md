@@ -5,8 +5,9 @@ section 4's discussion. Mainly, beta/factor\_vae computes the disentanglement sc
 in section 3. beta\_finder was used to plot the disentaglement scores of all beta=0.5, 1, ... 10 values.
 The plots and numbers supporting the main arugments in section 4's discussion can be found in beta\_vae\_metric.
 
-Name                            | Content
-------------------------------------------------------------------------------------------------------------
+
+Name                              | Content
+----------------------------------|-------------------------------------------------------------------------
 beta\_finder.ipynb                |  Evaluate beta=0.5, 1, ... 10 (generated plot in section 3).
 beta\_vae\_metric.ipynb           |  Evaluate beta=4, PCA, ICA, VAE, VAE-untrained (table in section 3).
 dSprites\_proper\_training.ipynb  |  Train beta-VAE model on dSprites for disentanglement evaluation.
