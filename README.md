@@ -9,7 +9,12 @@ these weights there.
 
 # Reproducing results
 
-A brief description about this repository:
+The scripts and notebooks to regenerate the results are provided in this repository in the form of Python scripts and notebooks. Most of
+the generated data can be found in the data folder except for the trained weights, which can be downloaded [here](https://github.com/maddyflash/betaVAE/releases).
+
+We recommend using conda to re-create our environment by running the following command:
+
+> conda create -n <env-name> --file requirements.txt
 
 
 # Notebooks & Scripts
