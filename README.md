@@ -1,5 +1,5 @@
 # betaVAE
-Group 5 beta VAE paper reproduction assignment.
+Group 5 [beta VAE](https://openreview.net/forum?id=Sy2fzU9gl) paper reproduction assignment.
 
 # Data
 
