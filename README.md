@@ -14,7 +14,7 @@ the generated data can be found in the data folder except for the trained weight
 
 We recommend using conda to re-create our environment by running the following command:
 
-> conda create -n <env-name> --file requirements.txt
+`conda create -n <env-name> --file requirements.txt`
 
 
 # Notebooks & Scripts
