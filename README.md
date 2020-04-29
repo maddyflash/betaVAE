@@ -7,6 +7,7 @@ All data should be organised as follows:
 
 data/3DChairs/images/1_image_020_p020_t232_r096.png
                     / etc
+                    
 data/CelebA/img_align_celeba/000001.png
                             / etc
                             
