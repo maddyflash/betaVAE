@@ -18,12 +18,12 @@ import numpy as np
 # helper functions
 # system check functions
 def test_tf(): 
-"""used stack overflow and tf docs to learn about how to access versions and
- make sure that tf was set up properly >>
- version - https://stackoverflow.com/questions/1252163/printing-python-version-in-output
- tf version - https://stackoverflow.com/questions/38549253/how-to-find-which-version-of-tensorflow-is-installed-in-my-system
- tf set up correct - https://www.tensorflow.org/api_docs/python/tf/test/is_gpu_available
-"""
+    """used stack overflow and tf docs to learn about how to access versions and
+     make sure that tf was set up properly >>
+     version - https://stackoverflow.com/questions/1252163/printing-python-version-in-output
+     tf version - https://stackoverflow.com/questions/38549253/how-to-find-which-version-of-tensorflow-is-installed-in-my-system
+     tf set up correct - https://www.tensorflow.org/api_docs/python/tf/test/is_gpu_available
+    """
     ''' tests that tf and gpu are loaded properly'''
     print(sys.version)
     print(tf.__version__)
